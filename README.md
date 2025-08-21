@@ -45,9 +45,6 @@ Total Investment Value: $1650
 Do you want to save the result to a file? (yes/no): yes
 ✅ Portfolio saved to portfolio_summary.txt
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -58,9 +55,6 @@ TSLA: 3 shares × $250 = $750
 
 Total Investment Value: $1650
 
-yaml
-Copy
-Edit
 
 ---
 
